@@ -121,5 +121,28 @@ float menor2()2(float num1, float num2)
 ```
 
 ========================
+21/11 Aula
+
+## aprendendo com http://code.org
+
+https://hourofcode.com/br/learn
+
+Aprenda coma Elza
+
+https://studio.code.org/s/frozen/lessons/1/levels/1
+
+
+### projeto java
+https://studio.code.org/projects/applab/c-RGedG09DDOJwT50bHoA1cV_A74yUA2Y__cbTAk9r0
+
+projeto login:
+https://studio.code.org/projects/applab/1BPUeRbEj7lw91-ZdfB3HkcquJaFzRMV06ZFQV_KbvU/view
+
+
+
+
+Referencias:
+
+https://blog.gocobi.com/scratch-to-java/
 
 
