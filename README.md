@@ -52,7 +52,43 @@ Esses conceitos tornam a programação dinâmica, permitindo soluções adaptáv
 
 ---
 
-## Funções
+# Funções na Programação
+
+## O que são funções?
+Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
+
+---
+
+## Componentes de uma função
+Uma função geralmente inclui:
+- **Nome**: Identificador único para chamá-la.
+- **Parâmetros** (opcionais): Valores de entrada que podem influenciar o comportamento da função.
+- **Corpo**: Bloco de código que define o que a função faz.
+- **Retorno** (opcional): Resultado que a função devolve após sua execução.
+
+---
+
+## Exemplos
+### Exemplo de função em C:
+```c
+int soma(int a, int b) {
+    return a + b;
+}
+
+### Benefícios do uso de funções
+
+*** Reutilização de código:*** Evita duplicidade.
+*** Organização:*** Torna o código mais modular e fácil de entender.
+*** Manutenção:*** Alterações podem ser feitas em um único local.
+*** Flexibilidade:*** Permite trabalhar com diferentes entradas.
+
+### Tipos de funções
+
+*** Sem retorno:*** Executam uma tarefa e não devolvem valor (ex.: funções void em C).
+*** Com retorno:*** Devolvem um resultado para o programa (ex.: funções matemáticas).
+*** Recursivas:*** Chamam a si mesmas para resolver problemas divididos em subproblemas menores.
+
+
 Crie uma função em linguagem C que receba 2 números e retorne o maior valor.
 
 Código C:
