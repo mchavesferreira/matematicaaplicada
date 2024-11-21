@@ -57,7 +57,7 @@ Crie uma função em linguagem C que receba 2 números e retorne o maior valor.
 
 Código C:
 
-´´´java
+```ruby
 
 float maior2(float num1, float num2)
 {
@@ -66,14 +66,14 @@ float maior2(float num1, float num2)
     else
         return num2;
 }
-´´´
+```
 ====================================
 
  Crie uma função em linguagem C que receba 2 números e retorne o menor valor.
 
 Código C:
 
-´´´java
+```ruby
 
 float menor2()2(float num1, float num2)
 {
@@ -82,7 +82,7 @@ float menor2()2(float num1, float num2)
     else
         return num2;
 }
-´´´
+```
 
 ========================
 
