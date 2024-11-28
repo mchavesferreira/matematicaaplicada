@@ -1,7 +1,10 @@
 # matematicaplicada
 
-<img src=qr.png width=300 height=300>
+# 28/11 Atividade com code.org
 
+https://studio.code.org/s/express-2021
+
+***21. Funções com Artista**
 
 # Conceitos de Programação
 
