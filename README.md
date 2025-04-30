@@ -1,6 +1,21 @@
 # Matematica Aplicada
 
-# 28/11 Atividade com code.org
+# 30/04 Atividade com code.org
+
+Loop
+
+https://studio.code.org/s/express-2021/lessons/10/levels/2
+
+Comando IF
+
+https://studio.code.org/s/express-2021/lessons/15/levels/1
+
+Funções:
+
+https://studio.code.org/s/express-2021/lessons/21/levels/1
+
+
+
 
 https://studio.code.org/s/express-2021
 
@@ -77,6 +92,7 @@ Uma função geralmente inclui:
 int soma(int a, int b) {
     return a + b;
 }
+```
 
 ### Benefícios do uso de funções
 
@@ -128,7 +144,7 @@ float menor2()2(float num1, float num2)
 
 ## aprendendo com http://code.org
 
-https://hourofcode.com/br/learn
+
 
 Aprenda coma Elza
 
