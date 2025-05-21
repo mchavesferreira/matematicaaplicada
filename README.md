@@ -1,4 +1,4 @@
-# Matematica Aplicada
+
 
 #  Atividade com code.org
 
@@ -6,6 +6,7 @@ Loop
 
 https://studio.code.org/s/express-2021/lessons/10/levels/2
 
+# github.com/mchavesferreira/matematicaaplicada
 # 21/05
 Comando IF
 
