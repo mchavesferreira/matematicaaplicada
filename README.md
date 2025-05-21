@@ -1,11 +1,12 @@
 # Matematica Aplicada
 
-# 30/04 Atividade com code.org
+#  Atividade com code.org
 
 Loop
 
 https://studio.code.org/s/express-2021/lessons/10/levels/2
 
+# 21/05
 Comando IF
 
 https://studio.code.org/s/express-2021/lessons/15/levels/1
