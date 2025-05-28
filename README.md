@@ -1,27 +1,43 @@
 
+#  Atividades com code.org
 
-#  Atividade com code.org
 
-Loop
+
+
+## Atividades com Atividades com Loop
 
 https://studio.code.org/s/express-2021/lessons/10/levels/2
 
-# github.com/mchavesferreira/matematicaaplicada
-# 21/05
-Comando IF
+## Atividades com Comando IF
 
 https://studio.code.org/s/express-2021/lessons/15/levels/1
 
-Funções:
+# 28/05
+
+# github.com/mchavesferreira/matematicaaplicada  
+## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
+
+### Atividades com Funções:
 
 https://studio.code.org/s/express-2021/lessons/21/levels/1
 
 
+## O que são funções?
+Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
+
+![funcoes](https://github.com/user-attachments/assets/103bcc90-ef9a-435b-a403-95cd6707466a)
+
+''java
+function desenhar_quadrado() {
+    for (var count2 = 0; count2 < 4; count2++) {
+        moveForward(50);
+    turnLeft(90);
+  }
+}
+''
 
 
-https://studio.code.org/s/express-2021
 
-***21. Funções com Artista**
 
 # Conceitos de Programação
 
@@ -47,17 +63,6 @@ Esses diagramas ajudam a entender e comunicar a lógica de programas, especialme
 
 ---
 
-## Estruturas de Controle de Fluxo
-Estruturas que controlam a execução de um programa com base em condições:
-
-- **Condicionais** (`if`): Executam ações específicas se uma condição for verdadeira.
-- **Repetição** (`while`): Repetem ações enquanto uma condição é verdadeira.
-- **Desvio** (`goto`): Alteram o fluxo diretamente para um ponto específico no código.
-
-Essas estruturas tornam os programas flexíveis, permitindo decisões e loops baseados em situações dinâmicas. O uso excessivo de desvios é desencorajado, pois dificulta a manutenção do código.
-
----
-
 ## Variáveis
 **Variáveis** armazenam dados que podem ser manipulados ao longo do programa. Elas possuem:
 - Nome para identificação.
@@ -68,6 +73,19 @@ Exemplo:
 - Variáveis booleanas assumem apenas os valores `verdadeiro` ou `falso`, úteis para controle lógico.
 
 Esses conceitos tornam a programação dinâmica, permitindo soluções adaptáveis e eficientes.
+
+
+
+## Estruturas de Controle de Fluxo
+Estruturas que controlam a execução de um programa com base em condições:
+
+- **Condicionais** (`if`): Executam ações específicas se uma condição for verdadeira.
+- **Repetição** (`while`): Repetem ações enquanto uma condição é verdadeira.
+- **Desvio** (`goto`): Alteram o fluxo diretamente para um ponto específico no código.
+
+Essas estruturas tornam os programas flexíveis, permitindo decisões e loops baseados em situações dinâmicas. O uso excessivo de desvios é desencorajado, pois dificulta a manutenção do código.
+
+---
 
 
 ---
@@ -141,8 +159,7 @@ float menor2()2(float num1, float num2)
 }
 ```
 
-========================
-21/11 Aula
+
 
 ## aprendendo com http://code.org
 
