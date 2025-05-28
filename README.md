@@ -27,14 +27,20 @@ Funções são blocos de código reutilizáveis que executam uma tarefa específ
 
 ![funcoes](https://github.com/user-attachments/assets/103bcc90-ef9a-435b-a403-95cd6707466a)
 
-''java
+```c
 function desenhar_quadrado() {
     for (var count2 = 0; count2 < 4; count2++) {
         moveForward(50);
     turnLeft(90);
   }
 }
-''
+
+main () {
+desenhar_quadrado()
+
+}
+
+```
 
 
 
