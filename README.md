@@ -32,7 +32,7 @@ Converta em blocos o seguinte códigos
 Codigo 1:
 
 ```c
-repeat(5, function() {
+for (var i = 0; i < 4; i++)  {
   moveForward(100);
   turnRight(144);
 });
