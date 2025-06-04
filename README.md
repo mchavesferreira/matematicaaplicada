@@ -70,8 +70,7 @@ function parte2() {
 function parte3() {
   jumpBackward(50);
   turnLeft(75);
-  jumpForward(20);
-  moveForward(40);
+  moveBackward(25);
 }
 
 penWidth(3);
