@@ -28,6 +28,61 @@ Termine as atividades de funções!  Caso tenha terminado retorne a atividade 11
 https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
 
 
+Converta em blocos o seguinte códigos
+Codigo 1:
+
+```c
+repeat(5, function() {
+  moveForward(100);
+  turnRight(144);
+});
+```
+
+Codigo 2:
+```c
+for (var i = 0; i < 4; i++) {
+  moveForward(100);
+  turnRight(90);
+}
+
+moveForward(100);
+turnRight(30);
+for (var i = 0; i < 3; i++) {
+  moveForward(100);
+  turnRight(120);
+}
+```
+
+Código 3
+
+
+```c
+function parte1() {
+  turnLeft(75);
+  moveForward(100);
+}
+
+function parte2() {
+  turnRight(150);
+  moveForward(100);
+}
+
+function parte3() {
+  jumpBackward(50);
+  turnLeft(75);
+  jumpForward(20);
+  penDown();
+  moveForward(40);
+}
+
+penWidth(3);
+penColour('#000000');
+parte1();
+parte2();
+parte3();
+```
+
+
 ## O que são funções?
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
 
