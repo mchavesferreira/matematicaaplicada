@@ -87,7 +87,11 @@ parte3();
 ## if(true) {    } else  {   }
 ## while(true )  {  }
 
-## O que são funções?
+https://studio.code.org/courses/express-2021/units/1/lessons/22/levels/1?lang=pt-BR
+
+---
+
+# O que são funções?
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
 
 ![funcoes](https://github.com/user-attachments/assets/103bcc90-ef9a-435b-a403-95cd6707466a)
