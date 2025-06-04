@@ -129,17 +129,19 @@ int soma(int a, int b) {
 
 ### Benefícios do uso de funções
 
-*** Reutilização de código:*** Evita duplicidade.
-*** Organização:*** Torna o código mais modular e fácil de entender.
-*** Manutenção:*** Alterações podem ser feitas em um único local.
-*** Flexibilidade:*** Permite trabalhar com diferentes entradas.
+***Reutilização de código:*** Evita duplicidade.
+***Organização:*** Torna o código mais modular e fácil de entender.
+***Manutenção:*** Alterações podem ser feitas em um único local.
+***Flexibilidade:*** Permite trabalhar com diferentes entradas.
 
 ### Tipos de funções
 
-*** Sem retorno:*** Executam uma tarefa e não devolvem valor (ex.: funções void em C).
-*** Com retorno:*** Devolvem um resultado para o programa (ex.: funções matemáticas).
-*** Recursivas:*** Chamam a si mesmas para resolver problemas divididos em subproblemas menores.
+***Sem retorno:*** Executam uma tarefa e não devolvem valor (ex.: funções void em C).
+***Com retorno:*** Devolvem um resultado para o programa (ex.: funções matemáticas).
+***Recursivas:*** Chamam a si mesmas para resolver problemas divididos em subproblemas menores.
 
+
+### Exemplos
 
 Crie uma função em linguagem C que receba 2 números e retorne o maior valor.
 
@@ -177,6 +179,7 @@ float menor2()2(float num1, float num2)
 ## aprendendo com http://code.org
 
 
+==================================================
 
 Aprenda coma Elza
 
