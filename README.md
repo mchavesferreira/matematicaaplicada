@@ -12,14 +12,20 @@ https://studio.code.org/s/express-2021/lessons/10/levels/2
 
 https://studio.code.org/s/express-2021/lessons/15/levels/1
 
-# 28/05
 
-# github.com/mchavesferreira/matematicaaplicada  
-## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
 
 ### Atividades com Funções:
 
 https://studio.code.org/s/express-2021/lessons/21/levels/1
+
+# 04/06
+# github.com/mchavesferreira/matematicaaplicada  
+
+## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
+
+Termine as atividades de funções!  Caso tenha terminado retorne a atividade 11
+
+https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
 
 
 ## O que são funções?
