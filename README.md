@@ -71,7 +71,6 @@ function parte3() {
   jumpBackward(50);
   turnLeft(75);
   jumpForward(20);
-  penDown();
   moveForward(40);
 }
 
