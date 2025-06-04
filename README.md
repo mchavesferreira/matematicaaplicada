@@ -81,6 +81,11 @@ parte2();
 parte3();
 ```
 
+# Ciclos condicionais
+
+## if (true) {  }
+## if(true) {    } else  {   }
+## while(true )  {  }
 
 ## O que são funções?
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
