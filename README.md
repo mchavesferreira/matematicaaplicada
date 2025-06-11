@@ -101,11 +101,11 @@ for (var i = 0; i < 2; i++) {
   turnLeft(45);
 }
 ```
-<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=300 height=300>
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=300 height=300>
 
 ### Faça a figura a seguir e apresente o código em funções
 
-<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=400 height=400>
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=400 height=400>
 
 Utilize o link de exemplo:
 https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
