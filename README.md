@@ -101,13 +101,11 @@ for (var i = 0; i < 2; i++) {
   turnLeft(45);
 }
 ```
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=300 height=300>
 
+### Faça a figura a seguir e apresente o código em funções
 
-![ChatGPT Image 11 de jun  de 2025, 07_31_48](https://github.com/user-attachments/assets/889fba28-a793-4aa2-8fad-b6a2b1732f5a)
-
-Faça a figura a seguir e apresente o código em funções
-
-![ChatGPT Image 11 de jun  de 2025, 07_33_32](https://github.com/user-attachments/assets/bdf24f0c-6bf6-4aa3-b976-83bb33e6504d)
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=400 height=400>
 
 Utilize o link de exemplo:
 https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
