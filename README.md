@@ -92,14 +92,30 @@ https://studio.code.org/courses/express-2021/units/1/lessons/22/levels/1?lang=pt
 Utilizando as funções construímos figuras geométricas como este exemplo
 
 ```c
-for (var i = 0; i < 2; i++) {
-  moveForward(100);
-  turnRight(90);
-  moveForward(100);
-  turnLeft(45);
-  moveForward(100);
-  turnLeft(45);
+unction quadrados_deslocados() {
+    for (var count2 = 0; count2 < 2; count2++) {
+        turnRight(180);
+  }
 }
+
+function desenhar_quadrado() {
+    for (var count3 = 0; count3 < 4; count3++) {
+        moveForward(50);
+    turnLeft(90);
+  }
+}
+
+for (var count = 0; count < 4; count++) {
+    moveForward(100);
+  turnRight(90);
+}
+jumpForward(100);
+turnRight(45);
+moveForward(141);
+turnRight(135);
+moveForward(100);
+turnLeft(90);
+moveForward(100);
 ```
 <img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=300 height=300>
 
