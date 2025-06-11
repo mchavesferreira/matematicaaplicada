@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodeBrasil - Plataforma de Programação Visual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Tela Inicial -->
+    <div id="tela-inicial" class="tela">
+        <div class="container">
+            <div class="header-inicial">
+                <h1>CodeBrasil</h1>
+                <p>Aprenda programação de forma divertida!</p>
+            </div>
+            <div class="selecao-niveis">
+                <h2>Selecione um Nível</h2>
+                <div class="niveis-grid">
+                    <div class="nivel-card" data-nivel="1">
+                        <div class="nivel-numero">1</div>
+                        <h3>Primeiros Passos</h3>
+                        <p>Aprenda comandos básicos de movimento</p>
+                    </div>
+                    <div class="nivel-card" data-nivel="2">
+                        <div class="nivel-numero">2</div>
+                        <h3>Fazendo Curvas</h3>
+                        <p>Aprenda a mudar de direção</p>
+                    </div>
+                    <div class="nivel-card" data-nivel="3">
+                        <div class="nivel-numero">3</div>
+                        <h3>Coletando Itens</h3>
+                        <p>Aprenda a coletar itens no caminho</p>
+                    </div>
+                    <div class="nivel-card" data-nivel="4">
+                        <div class="nivel-numero">4</div>
+                        <h3>Repetição</h3>
+                        <p>Use loops para repetir ações</p>
+                    </div>
+                    <div class="nivel-card" data-nivel="5">
+                        <div class="nivel-numero">5</div>
+                        <h3>Desafio Final</h3>
+                        <p>Combine todos os conceitos aprendidos</p>
+                    </div>
+                </div>
+            </div>
+            <div class="botoes-iniciais">
+                <button class="btn btn--secondary" id="btn-ajuda-inicial">📚 Menu de Ajuda</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Interface Principal de Programação -->
+    <div id="interface-principal" class="tela hidden">
+        <div class="toolbar">
+            <button class="btn btn--secondary" id="btn-voltar">← Voltar</button>
+            <div class="nivel-info">
+                <span id="nivel-atual">Nível 1</span>
+                <span id="nivel-titulo">Primeiros Passos</span>
+            </div>
+            <div class="controles-execucao">
+                <button class="btn btn--primary" id="btn-executar">▶️ Executar</button>
+                <button class="btn btn--secondary" id="btn-parar">⏸️ Parar</button>
+                <button class="btn btn--outline" id="btn-reset">🔄 Reset</button>
+            </div>
+            <button class="btn btn--secondary" id="btn-ajuda">❓ Ajuda</button>
+        </div>
+
+        <div class="interface-conteudo">
+            <!-- Paleta de Blocos -->
+            <div class="paleta-blocos">
+                <h3>Blocos Disponíveis</h3>
+                <div id="blocos-disponiveis">
+                    <!-- Blocos serão inseridos aqui dinamicamente -->
+                </div>
+            </div>
+
+            <!-- Área de Construção -->
+            <div class="area-construcao">
+                <h3>Sua Programação</h3>
+                <div class="objetivo-nivel">
+                    <p id="objetivo-descricao">Mova o personagem para a posição objetivo</p>
+                </div>
+                <div id="zona-construcao" class="zona-drop">
+                    <div class="dica-construcao">Arraste os blocos aqui para programar</div>
+                </div>
+                <div class="contador-blocos">
+                    <span>Blocos utilizados: <span id="total-blocos">0</span></span>
+                </div>
+            </div>
+
+            <!-- Grid de Visualização -->
+            <div class="visualizacao">
+                <h3>Visualização</h3>
+                <div class="status-execucao">
+                    <div class="status-indicador" id="status-execucao">Pronto para executar</div>
+                </div>
+                <div id="grid-jogo" class="grid-container">
+                    <!-- Grid 8x8 será gerado aqui -->
+                </div>
+                <div class="legenda">
+                    <div class="item-legenda">
+                        <div class="personagem-mini"></div>
+                        <span>Personagem</span>
+                    </div>
+                    <div class="item-legenda">
+                        <div class="objetivo-mini"></div>
+                        <span>Objetivo</span>
+                    </div>
+                    <div class="item-legenda">
+                        <div class="item-mini"></div>
+                        <span>Item</span>
+                    </div>
+                    <div class="item-legenda">
+                        <div class="obstaculo-mini"></div>
+                        <span>Obstáculo</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Menu de Ajuda -->
+    <div id="menu-ajuda" class="modal hidden">
+        <div class="modal-overlay" id="modal-overlay"></div>
+        <div class="modal-conteudo">
+            <div class="modal-header">
+                <h2>Menu de Ajuda</h2>
+                <button class="btn-fechar" id="fechar-ajuda">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="ajuda-navegacao">
+                    <button class="btn-secao-ajuda active" data-secao="conceitos_basicos">Conceitos Básicos</button>
+                    <button class="btn-secao-ajuda" data-secao="pensamento_computacional">Pensamento Computacional</button>
+                    <button class="btn-secao-ajuda" data-secao="estruturas_controle">Estruturas de Controle</button>
+                    <button class="btn-secao-ajuda" data-secao="debugging">Depuração</button>
+                    <button class="btn-secao-ajuda" data-secao="como_usar">Como Usar</button>
+                </div>
+                <div class="ajuda-conteudo" id="ajuda-conteudo">
+                    <!-- Conteúdo da ajuda será inserido aqui -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Sucesso -->
+    <div id="modal-sucesso" class="modal hidden">
+        <div class="modal-overlay"></div>
+        <div class="modal-conteudo modal-sucesso">
+            <div class="modal-header">
+                <h2>🎉 Parabéns!</h2>
+            </div>
+            <div class="modal-body">
+                <p id="mensagem-sucesso">Você completou o nível com sucesso!</p>
+                <div class="botoes-sucesso">
+                    <button class="btn btn--primary" id="btn-proximo-nivel">Próximo Nível</button>
+                    <button class="btn btn--outline" id="btn-repetir-nivel">Repetir Nível</button>
+                    <button class="btn btn--secondary" id="btn-menu-principal">Menu Principal</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de Repetir -->
+    <div id="modal-repetir" class="modal hidden">
+        <div class="modal-overlay"></div>
+        <div class="modal-conteudo">
+            <div class="modal-header">
+                <h2>Bloco Repetir</h2>
+                <button class="btn-fechar" id="fechar-repetir">×</button>
+            </div>
+            <div class="modal-body">
+                <p>Quantas vezes deseja repetir os comandos?</p>
+                <input type="number" id="input-repeticoes" class="form-control" min="1" max="10" value="2">
+                <div class="botoes-repetir">
+                    <button class="btn btn--primary" id="confirmar-repetir">Confirmar</button>
+                    <button class="btn btn--secondary" id="cancelar-repetir">Cancelar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
