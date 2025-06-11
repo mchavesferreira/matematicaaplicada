@@ -100,7 +100,8 @@ for (var i = 0; i < 2; i++) {
   moveForward(100);
   turnLeft(45);
 }
-```c
+```
+
 
 ![ChatGPT Image 11 de jun  de 2025, 07_31_48](https://github.com/user-attachments/assets/889fba28-a793-4aa2-8fad-b6a2b1732f5a)
 
