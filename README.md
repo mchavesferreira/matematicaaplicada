@@ -18,17 +18,12 @@ https://studio.code.org/s/express-2021/lessons/15/levels/1
 
 https://studio.code.org/s/express-2021/lessons/21/levels/1
 
-# 04/06
-# github.com/mchavesferreira/matematicaaplicada  
-
-## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
-
 Termine as atividades de funções!  Caso tenha terminado retorne a atividade 11
 
 https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
 
 
-Converta em blocos o seguinte códigos
+### Converta em blocos o seguinte códigos
 Codigo 1:
 
 ```c
@@ -79,7 +74,10 @@ parte1();
 parte2();
 parte3();
 ```
+# 11/06
+# github.com/mchavesferreira/matematicaaplicada  
 
+## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
 # Ciclos condicionais
 
 ## if (true) {  }
