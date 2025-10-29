@@ -36,6 +36,9 @@ Cada número vira **7 bits**. O leitor óptico interpreta espessura das barras p
 
 Além disso, existem marcadores fixos no início, meio e fim do código para sincronização e verificação visual:
 
+
+<img width="222" height="163" alt="Captura de tela 2025-10-29 024516" src="https://github.com/user-attachments/assets/18c81893-ed7d-427c-a9a6-f2e1be910794" />
+
 ```
 |101| (lado esquerdo) 6 dígitos |01010| (centro) 6 dígitos |101|
 ```
