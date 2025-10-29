@@ -1,3 +1,9 @@
+29/10/2025
+
+Mensagem secreta
+<img width="888" height="418" alt="Captura de tela 2025-10-29 031700" src="https://github.com/user-attachments/assets/83d41716-1665-440b-99d4-68e532ed19e3" />
+
+
 
 #  Atividades com code.org
 
