@@ -110,18 +110,11 @@ O QR Code possui **4 níveis** de correção:
 
 Isso permite que parte do código fique **apagado, sujo ou rasgado**, mas ainda possa ser lido corretamente.
 
----
+O que são QR Code : https://nordvpn.com/pt-br/blog/o-que-e-qr-code/
 
-## 🎯 Conclusão Didática
+<img width="649" height="402" alt="Captura de tela 2025-10-29 025732" src="https://github.com/user-attachments/assets/c02b6365-6002-4504-9028-577102c3bf85" />
 
-| Tecnologia       | Detecção de erros | Correção de erros    | Estrutura |
-| ---------------- | ----------------- | -------------------- | --------- |
-| EAN-13 / ISBN-13 | ✅ sim (1 DV)      | ❌ não                | Linear    |
-| ISBN-10          | ✅ sim             | ❌ não                | Linear    |
-| QR Code          | ✅ sim             | ✅ sim (Reed-Solomon) | 2D        |
-
-> A teoria de erros garante que um produto seja identificado corretamente mesmo com falhas na digitalização.
-> Quanto maior a robustez, maior a confiabilidade do sistema automatizado.
+<img width="811" height="514" alt="Captura de tela 2025-10-29 025849" src="https://github.com/user-attachments/assets/790726a2-a9f8-4afa-b2cf-64b3aa750039" />
 
 ---
 
