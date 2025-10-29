@@ -87,6 +87,33 @@ Essa técnica detecta com alta eficiência:
 
 A mudança foi necessária para que livros fossem compatíveis com sistemas comerciais internacionais.
 
+
+## Estrutura explicada para um livro Brasileiro ISBN 978-85-66250-09-0
+
+Exemplo: **978-85-66250-09-0**
+
+| Parte | Função                              |
+| ----- | ----------------------------------- |
+| 978   | Prefixo (padrão de livro no EAN-13) |
+| 85    | País / área linguística (Brasil)    |
+| 66250 | Editora                             |
+| 09    | Título específico                   |
+| 0     | Dígito verificador (DV)             |
+---
+
+# 📚 Encontre o digito Verificador para os seguintes números ISBN
+
+
+| **978-85-333-0227-?** |
+| **978-65-86044-00-?** |  
+
+
+---
+
+
+---
+
+
 ---
 
 ## 🧊 E o QR Code?
