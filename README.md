@@ -13,10 +13,12 @@ https://lab.open-roberta.org/
 <BR>
 <BR>-Esp32  Devkit Esp32-wroom-32 - 30 Pinos - Tipo C
 <BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/ESP32_tipoC.png width=200 height=200>
+
 <BR>https://produto.mercadolivre.com.br/MLB-3456778444-esp32-doit-devkit-esp32-wroom-32-30-pinos-tipo-c-_JM
 
 <BR>-Display Oled 0.96 I2c Branco/amarelo ou Azul 
-<BR><img src==https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/display_oled.png width=200 height=200>
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/display_oled.png width=200 height=200>
+
 <BR>https://produto.mercadolivre.com.br/MLB-2844134920-display-oled-branco-096-i2c-arduino-pic-_JM
 <BR>
 <BR>-Cabo Wire Jumper 20cm 40 Fios Fêmea-macho Protoboard 
@@ -28,12 +30,12 @@ https://lab.open-roberta.org/
 <BR>https://produto.mercadolivre.com.br/MLB-1944458631-jumper-macho-x-macho-65pcs-fio-arduino-para-mega-e-uno-_JM
 <BR>
 <BR>-Protoboard 830 Furos
-<BR><img src==https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/protoboard.png  width=200 height=200>
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/protoboard.png  width=200 height=200>
 <BR>https://produto.mercadolivre.com.br/MLB-1934614556-protoboard-830-furos-breadboard-830-pontos-_JM
 
 <BR>
 <BR>-Minimo 5 Leds, resistores, botões Push-buttons
-<BR><img src==https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/leds_resistor.png  width=200 height=200>
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/leds_resistor.png  width=200 height=200>
 <BR>
 
 
