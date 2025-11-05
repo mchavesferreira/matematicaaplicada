@@ -9,7 +9,7 @@ https://lab.open-roberta.org/
 
 <BR>Sugestão de lista de compras para montagem de projetos com ESP32
 <BR>
-** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que não muitas vezes utilizado.
+** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que serão utilizados. 
 <BR>
 <BR>-Esp32  Devkit Esp32-wroom-32 - 30 Pinos - Tipo C
 <BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/ESP32_tipoC.png width=200 height=200>
