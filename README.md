@@ -7,7 +7,7 @@ https://lab.open-roberta.org/
 
 # Material para Microcontroladores (2° ano)
 
-<BR><h1>Sugestão de lista de compras para montagem de projetos com ESP32</h1>
+<BR>Sugestão de lista de compras para montagem de projetos com ESP32
 <BR>
 ** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que não muitas vezes utilizado.
 <BR>
