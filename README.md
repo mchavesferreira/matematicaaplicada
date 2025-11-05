@@ -1,3 +1,12 @@
+
+05/11/2025
+
+aprendendo a programar
+
+https://lab.open-roberta.org/
+
+
+
 29/10/2025
 
 Mensagem secreta
