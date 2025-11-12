@@ -5,6 +5,20 @@ aprendendo a programar
 
 https://lab.open-roberta.org/
 
+Faça o login,  e escolha a plataforma EV3dev
+
+Abra o simulador, e troque de ambiente como o da figura
+
+
+<img width="1584" height="888" alt="image" src="https://github.com/user-attachments/assets/d64afb32-8be7-4263-aa29-8f06a65b129e" />
+
+Explore a programação e simulação
+
+Escolha entre mover o carrinho, mostrar mensagens no seu visor.
+
+Faça um trajeto para o carrinho com e sem obstáculos.
+
+
 # Material para Microcontroladores (2° ano)
 
 <BR>Sugestão de lista de compras para montagem de projetos com ESP32
