@@ -19,6 +19,10 @@ https://lab.open-roberta.org/
 <img width="1584" height="888" alt="image" src="https://github.com/user-attachments/assets/d64afb32-8be7-4263-aa29-8f06a65b129e" />
 
 
+-Faça um trajeto para o carrinho com e sem obstáculos.
+
+<img width="1402" height="841" alt="image" src="https://github.com/user-attachments/assets/2a011b18-83ed-4c66-bbb6-99bd1e6ef740" />
+
 
 
 # Material para Microcontroladores (2° ano)
