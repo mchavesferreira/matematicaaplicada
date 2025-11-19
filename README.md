@@ -7,7 +7,10 @@ https://lab.open-roberta.org/
 
 -Faça o login,  e escolha a plataforma **EV3dev**
 
-**EScolha galeria**
+<img width="381" height="380" alt="image" src="https://github.com/user-attachments/assets/208cedcc-8264-4550-b252-4da136ae0826" />
+
+
+No menu >> **EScolha galeria** >> Seguidor de line
 
 -Abra o simulador, e troque de ambiente como o da figura
 
