@@ -1,11 +1,13 @@
 
-12/11/2025
+## 19/11/2025
 
 aprendendo a programar
 
 https://lab.open-roberta.org/
 
--Faça o login,  e escolha a plataforma EV3dev
+-Faça o login,  e escolha a plataforma **EV3dev**
+
+**EScolha galeria**
 
 -Abra o simulador, e troque de ambiente como o da figura
 
