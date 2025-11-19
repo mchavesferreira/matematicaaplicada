@@ -15,7 +15,7 @@ No menu >> **EScolha galeria** >> seguidordelinea
 Troque o fundo da imagem "upload simulation"
 
 
-<img width="1176" height="732" alt="desafio_ifsp" src="https://github.com/user-attachments/assets/d77e8425-9d4e-468a-b4e1-5224657f4cee" />
+<img width="1176" height="732" alt="desafio_ifsp" src="https://github.com/user-attachments/assets/3786c305-439e-474d-a90f-ae04f0f5317b" />
 
 
 -Abra o simulador, e troque de ambiente como o da figura
