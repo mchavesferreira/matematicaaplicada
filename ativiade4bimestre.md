@@ -34,7 +34,7 @@ O foco será compreender **o que o mercado espera de um técnico em Mecatrônica
 
 ## Pesquise 
 
-# GPTs custom
+# Consulta o PPC com estes chats prontos
 
 https://chatgpt.com/g/g-691e570c7fcc8191888a7aa1aad70999-cursos-ifsp-catanduva
 
