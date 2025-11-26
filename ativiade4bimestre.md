@@ -45,4 +45,4 @@ https://gemini.google.com/gem/1cKeOnNLbSMtJf1QfSisiJJ3wU6if9amr?usp=sharing
 https://www.perplexity.ai/spaces/cursos-ifsp-catanduva-jPlVTyBkTuqF2zv_YTO7Ag#0
 
 
-# Gere um doc, pdf e envie para o email fabionniime@ifsp.edu.br com nome da dupla
+# Gere um doc ou pdf e envie para o email fabionniime@ifsp.edu.br com nome da dupla
