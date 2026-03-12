@@ -1,86 +1,24 @@
-## 26/11
-
-https://github.com/mchavesferreira/matematicaaplicada/blob/main/ativiade4bimestre.md
-
-## 19/11/2025
-
-aprendendo a programar
-
-https://lab.open-roberta.org/
-
--Faça o login,  e escolha a plataforma **EV3dev**
-
-<img width="381" height="380" alt="image" src="https://github.com/user-attachments/assets/208cedcc-8264-4550-b252-4da136ae0826" />
-
-
-No menu >> **EScolha galeria** >> seguidordelinea 
-
-Troque o fundo da imagem "upload simulation"
-
-
-<img width="1176" height="732" alt="desafio_ifsp" src="https://github.com/user-attachments/assets/3786c305-439e-474d-a90f-ae04f0f5317b" />
-
-
--Abra o simulador, e troque de ambiente como o da figura
-
--Explore a programação e simulação
-
--Escolha entre mover o carrinho, mostrar mensagens no seu visor.
-
--Faça um trajeto para o carrinho com e sem obstáculos.
-
-
-<img width="1584" height="888" alt="image" src="https://github.com/user-attachments/assets/d64afb32-8be7-4263-aa29-8f06a65b129e" />
-
-
--Faça um trajeto para o carrinho com e sem obstáculos.
-
-<img width="1402" height="841" alt="image" src="https://github.com/user-attachments/assets/2a011b18-83ed-4c66-bbb6-99bd1e6ef740" />
-
-
-
-# Material para Microcontroladores (2° ano)
-
-<BR>Sugestão de lista de compras para montagem de projetos com ESP32
-<BR>
-** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que serão utilizados. 
-<BR>
-<BR>-Esp32  Devkit Esp32-wroom-32 - 30 Pinos - Tipo C
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/ESP32_tipoC.png width=200 height=200>
-
-<BR>https://produto.mercadolivre.com.br/MLB-3456778444-esp32-doit-devkit-esp32-wroom-32-30-pinos-tipo-c-_JM
-
-<BR>-Display Oled 0.96 I2c Branco/amarelo ou Azul 
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/display_oled.png width=200 height=200>
-
-<BR>https://produto.mercadolivre.com.br/MLB-2844134920-display-oled-branco-096-i2c-arduino-pic-_JM
-<BR>
-<BR>-Cabo Wire Jumper 20cm 40 Fios Fêmea-macho Protoboard 
-<BR>https://produto.mercadolivre.com.br/MLB-1884942498-cabo-wire-jumper-20cm-40-fios-fmea-macho-protoboard-arduino-_JM
-<BR>
-<BR>-Jumper Macho X Macho 65pcs Fio Arduino 
-<BR><img src=https://github.com/mchavesferreira/mcr/blob/main/imagens/jumpers_machomacho.png width=200 height=200>
-<BR>https://produto.mercadolivre.com.br/MLB-1944458631-jumper-macho-x-macho-65pcs-fio-arduino-para-mega-e-uno-_JM
-<BR>
-<BR>-Protoboard 830 Furos
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/protoboard.png  width=200 height=200>
-<BR>https://produto.mercadolivre.com.br/MLB-1934614556-protoboard-830-furos-breadboard-830-pontos-_JM
-
-<BR>
-<BR>-Minimo 5 Leds, resistores, botões Push-buttons
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/leds_resistor.png  width=200 height=200>
-<BR>
-
-
-29/10/2025
-
-Mensagem secreta
-<img width="888" height="418" alt="Captura de tela 2025-10-29 031700" src="https://github.com/user-attachments/assets/83d41716-1665-440b-99d4-68e532ed19e3" />
-
 
 
 #  Atividades com code.org
 
+
+
+## aprendendo com http://code.org
+
+
+==================================================
+
+Aprenda coma Elza
+
+https://studio.code.org/s/frozen/lessons/1/levels/1
+
+
+### projeto java
+https://studio.code.org/projects/applab/c-RGedG09DDOJwT50bHoA1cV_A74yUA2Y__cbTAk9r0
+
+projeto login:
+https://studio.code.org/projects/applab/1BPUeRbEj7lw91-ZdfB3HkcquJaFzRMV06ZFQV_KbvU/view
 
 
 
@@ -204,6 +142,7 @@ moveForward(100);
 <img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=400 height=400>
 
 Utilize o link de exemplo:
+
 https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/13?lang=pt-BR
 
 
@@ -367,21 +306,84 @@ float menor2()2(float num1, float num2)
 
 
 
-## aprendendo com http://code.org
+## 26/11
+
+https://github.com/mchavesferreira/matematicaaplicada/blob/main/ativiade4bimestre.md
+
+## 19/11/2025
+
+aprendendo a programar
+
+https://lab.open-roberta.org/
+
+-Faça o login,  e escolha a plataforma **EV3dev**
+
+<img width="381" height="380" alt="image" src="https://github.com/user-attachments/assets/208cedcc-8264-4550-b252-4da136ae0826" />
 
 
-==================================================
+No menu >> **EScolha galeria** >> seguidordelinea 
 
-Aprenda coma Elza
-
-https://studio.code.org/s/frozen/lessons/1/levels/1
+Troque o fundo da imagem "upload simulation"
 
 
-### projeto java
-https://studio.code.org/projects/applab/c-RGedG09DDOJwT50bHoA1cV_A74yUA2Y__cbTAk9r0
+<img width="1176" height="732" alt="desafio_ifsp" src="https://github.com/user-attachments/assets/3786c305-439e-474d-a90f-ae04f0f5317b" />
 
-projeto login:
-https://studio.code.org/projects/applab/1BPUeRbEj7lw91-ZdfB3HkcquJaFzRMV06ZFQV_KbvU/view
+
+-Abra o simulador, e troque de ambiente como o da figura
+
+-Explore a programação e simulação
+
+-Escolha entre mover o carrinho, mostrar mensagens no seu visor.
+
+-Faça um trajeto para o carrinho com e sem obstáculos.
+
+
+<img width="1584" height="888" alt="image" src="https://github.com/user-attachments/assets/d64afb32-8be7-4263-aa29-8f06a65b129e" />
+
+
+-Faça um trajeto para o carrinho com e sem obstáculos.
+
+<img width="1402" height="841" alt="image" src="https://github.com/user-attachments/assets/2a011b18-83ed-4c66-bbb6-99bd1e6ef740" />
+
+
+
+# Material para Microcontroladores (2° ano)
+
+<BR>Sugestão de lista de compras para montagem de projetos com ESP32
+<BR>
+** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que serão utilizados. 
+<BR>
+<BR>-Esp32  Devkit Esp32-wroom-32 - 30 Pinos - Tipo C
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/ESP32_tipoC.png width=200 height=200>
+
+<BR>https://produto.mercadolivre.com.br/MLB-3456778444-esp32-doit-devkit-esp32-wroom-32-30-pinos-tipo-c-_JM
+
+<BR>-Display Oled 0.96 I2c Branco/amarelo ou Azul 
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/display_oled.png width=200 height=200>
+
+<BR>https://produto.mercadolivre.com.br/MLB-2844134920-display-oled-branco-096-i2c-arduino-pic-_JM
+<BR>
+<BR>-Cabo Wire Jumper 20cm 40 Fios Fêmea-macho Protoboard 
+<BR>https://produto.mercadolivre.com.br/MLB-1884942498-cabo-wire-jumper-20cm-40-fios-fmea-macho-protoboard-arduino-_JM
+<BR>
+<BR>-Jumper Macho X Macho 65pcs Fio Arduino 
+<BR><img src=https://github.com/mchavesferreira/mcr/blob/main/imagens/jumpers_machomacho.png width=200 height=200>
+<BR>https://produto.mercadolivre.com.br/MLB-1944458631-jumper-macho-x-macho-65pcs-fio-arduino-para-mega-e-uno-_JM
+<BR>
+<BR>-Protoboard 830 Furos
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/protoboard.png  width=200 height=200>
+<BR>https://produto.mercadolivre.com.br/MLB-1934614556-protoboard-830-furos-breadboard-830-pontos-_JM
+
+<BR>
+<BR>-Minimo 5 Leds, resistores, botões Push-buttons
+<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/leds_resistor.png  width=200 height=200>
+<BR>
+
+
+29/10/2025
+
+Mensagem secreta
+<img width="888" height="418" alt="Captura de tela 2025-10-29 031700" src="https://github.com/user-attachments/assets/83d41716-1665-440b-99d4-68e532ed19e3" />
 
 
 
