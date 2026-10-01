@@ -294,8 +294,6 @@ float menor2()2(float num1, float num2)
 }
 ```
 
-https://github.com/mchavesferreira/matematicaaplicada/blob/main/ativiade4bimestre.md
-
 
 # Programe um robô
 
