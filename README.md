@@ -61,8 +61,7 @@ Essas estruturas tornam os programas flexíveis, permitindo decisões e loops ba
 
 ## Aprenda coma Elza
 
-https://studio.code.org/s/frozen/lessons/1/levels/1
-
+https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1?lang=pt-BR
 
 
 # Ciclos condicionais
