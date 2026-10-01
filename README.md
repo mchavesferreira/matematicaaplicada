@@ -1,3 +1,11 @@
+#  Atividades com code.org
+
+# github.com/mchavesferreira/matematicaaplicada  
+
+## Acesse e logue em https://studio.code.org em sua conta 
+
+https://code.org/pt-BR
+
 
 
 # Conceitos de Programação
@@ -48,9 +56,6 @@ Essas estruturas tornam os programas flexíveis, permitindo decisões e loops ba
 
 ---
 
-#  Atividades com code.org
-
-https://code.org/pt-BR
 
 ==================================================
 
@@ -60,10 +65,6 @@ https://studio.code.org/s/frozen/lessons/1/levels/1
 
 
 
-
-# github.com/mchavesferreira/matematicaaplicada  
-
-## Acesse e logue em https://studio.code.org em sua conta e vamos para a atividade de hoje
 # Ciclos condicionais
 
 ## if (true) {  }
@@ -72,46 +73,15 @@ https://studio.code.org/s/frozen/lessons/1/levels/1
 
 https://studio.code.org/courses/express-2021/units/1/lessons/22/levels/1?lang=pt-BR
 
+## Atividades com Atividades com Loop
+
+https://studio.code.org/s/express-2021/lessons/10/levels/2
+
+## Atividades com Comando IF
+
+https://studio.code.org/s/express-2021/lessons/15/levels/1
+
 ---
-## Trabalho 
-
-Utilizando as funções construímos figuras geométricas como este exemplo
-
-```c
-unction quadrados_deslocados() {
-    for (var count2 = 0; count2 < 2; count2++) {
-        turnRight(180);
-  }
-}
-
-function desenhar_quadrado() {
-    for (var count3 = 0; count3 < 4; count3++) {
-        moveForward(50);
-    turnLeft(90);
-  }
-}
-
-for (var count = 0; count < 4; count++) {
-    moveForward(100);
-  turnRight(90);
-}
-jumpForward(100);
-turnRight(45);
-moveForward(141);
-turnRight(135);
-moveForward(100);
-turnLeft(90);
-moveForward(100);
-```
-<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=300 height=300>
-
-### Faça a figura a seguir e apresente o código em funções
-
-<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=400 height=400>
-
-Utilize o link de exemplo:
-
-https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/13?lang=pt-BR
 
 
 
@@ -189,16 +159,6 @@ int soma(int a, int b) {
 
 
 
-## Atividades com Atividades com Loop
-
-https://studio.code.org/s/express-2021/lessons/10/levels/2
-
-## Atividades com Comando IF
-
-https://studio.code.org/s/express-2021/lessons/15/levels/1
-
-
-
 ### Atividades com Funções:
 
 https://studio.code.org/s/express-2021/lessons/21/levels/1
@@ -260,6 +220,46 @@ parte2();
 parte3();
 ```
 
+## Trabalho 
+
+Utilizando as funções construímos figuras geométricas como este exemplo
+
+```c
+unction quadrados_deslocados() {
+    for (var count2 = 0; count2 < 2; count2++) {
+        turnRight(180);
+  }
+}
+
+function desenhar_quadrado() {
+    for (var count3 = 0; count3 < 4; count3++) {
+        moveForward(50);
+    turnLeft(90);
+  }
+}
+
+for (var count = 0; count < 4; count++) {
+    moveForward(100);
+  turnRight(90);
+}
+jumpForward(100);
+turnRight(45);
+moveForward(141);
+turnRight(135);
+moveForward(100);
+turnLeft(90);
+moveForward(100);
+```
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo2.png width=300 height=300>
+
+### Faça a figura a seguir e apresente o código em funções
+
+<img src=https://raw.githubusercontent.com/mchavesferreira/matematicaaplicada/refs/heads/main/figuras/figuraexemplo1.png width=400 height=400>
+
+Utilize o link de exemplo:
+
+https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/13?lang=pt-BR
+
 
 ### Exemplos
 
@@ -294,15 +294,10 @@ float menor2()2(float num1, float num2)
 }
 ```
 
-
-
-## 26/11
-
 https://github.com/mchavesferreira/matematicaaplicada/blob/main/ativiade4bimestre.md
 
-## 19/11/2025
 
-aprendendo a programar
+# Programe um robô
 
 https://lab.open-roberta.org/
 
@@ -336,50 +331,5 @@ Troque o fundo da imagem "upload simulation"
 <img width="1402" height="841" alt="image" src="https://github.com/user-attachments/assets/2a011b18-83ed-4c66-bbb6-99bd1e6ef740" />
 
 
-
-# Material para Microcontroladores (2° ano)
-
-<BR>Sugestão de lista de compras para montagem de projetos com ESP32
-<BR>
-** Dica faça uma pesquisa em sites como Aliexpress que possui garantia de entrega. Não compre kits prontos com sensores que serão utilizados. 
-<BR>
-<BR>-Esp32  Devkit Esp32-wroom-32 - 30 Pinos - Tipo C
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/ESP32_tipoC.png width=200 height=200>
-
-<BR>https://produto.mercadolivre.com.br/MLB-3456778444-esp32-doit-devkit-esp32-wroom-32-30-pinos-tipo-c-_JM
-
-<BR>-Display Oled 0.96 I2c Branco/amarelo ou Azul 
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/display_oled.png width=200 height=200>
-
-<BR>https://produto.mercadolivre.com.br/MLB-2844134920-display-oled-branco-096-i2c-arduino-pic-_JM
-<BR>
-<BR>-Cabo Wire Jumper 20cm 40 Fios Fêmea-macho Protoboard 
-<BR>https://produto.mercadolivre.com.br/MLB-1884942498-cabo-wire-jumper-20cm-40-fios-fmea-macho-protoboard-arduino-_JM
-<BR>
-<BR>-Jumper Macho X Macho 65pcs Fio Arduino 
-<BR><img src=https://github.com/mchavesferreira/mcr/blob/main/imagens/jumpers_machomacho.png width=200 height=200>
-<BR>https://produto.mercadolivre.com.br/MLB-1944458631-jumper-macho-x-macho-65pcs-fio-arduino-para-mega-e-uno-_JM
-<BR>
-<BR>-Protoboard 830 Furos
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/protoboard.png  width=200 height=200>
-<BR>https://produto.mercadolivre.com.br/MLB-1934614556-protoboard-830-furos-breadboard-830-pontos-_JM
-
-<BR>
-<BR>-Minimo 5 Leds, resistores, botões Push-buttons
-<BR><img src=https://raw.githubusercontent.com/mchavesferreira/mcr/refs/heads/main/imagens/leds_resistor.png  width=200 height=200>
-<BR>
-
-
-29/10/2025
-
-Mensagem secreta
-<img width="888" height="418" alt="Captura de tela 2025-10-29 031700" src="https://github.com/user-attachments/assets/83d41716-1665-440b-99d4-68e532ed19e3" />
-
-
-
-
-Referencias:
-
-https://blog.gocobi.com/scratch-to-java/
 
 
