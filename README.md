@@ -56,12 +56,18 @@ Essas estruturas tornam os programas flexíveis, permitindo decisões e loops ba
 
 ---
 
+# 08/10/2027
+
+
+
 
 ==================================================
 
 ## Aprenda coma Elza
 
-https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1?lang=pt-BR
+<img width="396" height="396" alt="image" src="https://github.com/user-attachments/assets/bcf462ed-83d1-4a8d-a037-31541496a03d" />
+
+https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1
 
 
 # Ciclos condicionais
@@ -82,7 +88,28 @@ https://studio.code.org/s/express-2021/lessons/15/levels/1
 
 ---
 
+## Desenhando o coordenadas
 
+<img width="243" height="220" alt="image" src="https://github.com/user-attachments/assets/752905ab-d152-4b81-98de-4353fdf06694" />
+
+https://studio.code.org/br/courses/express-2021/units/1/lessons/4/levels/9
+
+## Criando um jogo
+
+<img width="421" height="407" alt="image" src="https://github.com/user-attachments/assets/c33509a8-b3e7-4e96-b347-72cf87c9a61b" />
+
+https://studio.code.org/br/courses/express-2021/units/1/lessons/8/levels/1
+
+
+## Condicionais com minecraft
+
+https://studio.code.org/br/courses/express-2021/units/1/lessons/17/levels/1
+
+## Loops
+
+<img width="408" height="400" alt="image" src="https://github.com/user-attachments/assets/6c45f324-1133-494e-a566-dbcff1d65a7e" />
+
+https://studio.code.org/br/courses/express-2021/units/1/lessons/10/levels/6
 
 # O que são funções?
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
