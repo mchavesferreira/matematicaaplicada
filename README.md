@@ -76,15 +76,17 @@ https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1
 ## if(true) {    } else  {   }
 ## while(true )  {  }
 
-https://studio.code.org/courses/express-2021/units/1/lessons/22/levels/1?lang=pt-BR
+# 21/10/2027
+
+https://studio.code.org/br/courses/express-2025/units/1/lessons/15/levels/2?lang=pt-BR
+
 
 ## Atividades com Atividades com Loop
 
-https://studio.code.org/s/express-2021/lessons/10/levels/2
+
 
 ## Atividades com Comando IF
 
-https://studio.code.org/s/express-2021/lessons/15/levels/1
 
 ---
 
