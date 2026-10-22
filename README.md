@@ -80,14 +80,14 @@ https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1
 
 ## Atividades com Atividades com Loop
 
-https://studio.code.org/br/courses/express-2025/units/1/lessons/15/levels/2?lang=pt-BR
+https://studio.code.org/br/courses/express-2025/units/1/lessons/15/levels/1?lang=pt-BR
 
 
 
 
 ## Atividades com Comando IF
 
-https://studio.code.org/courses/express-2025/units/1/lessons/17/levels/5
+https://studio.code.org/courses/express-2025/units/1/lessons/17/levels/1?lang=pt-BR
 
 
 
