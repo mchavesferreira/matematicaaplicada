@@ -90,7 +90,8 @@ https://studio.code.org/courses/express-2025/units/1/lessons/17/levels/1?lang=pt
 
 ## Funções e variáveis
 
-# O que são funções?
+# Funções na Programação
+
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
 
 ![funcoes](https://github.com/user-attachments/assets/103bcc90-ef9a-435b-a403-95cd6707466a)
@@ -117,16 +118,6 @@ desenhar_quadrado()
 
 
 ```
-
-
----
-
-# Funções na Programação
-
-## O que são funções?
-Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
-
----
 
 ## Componentes de uma função
 Uma função geralmente inclui:
@@ -163,7 +154,38 @@ int soma(int a, int b) {
 
 ***Recursivas:*** Chamam a si mesmas para resolver problemas divididos em subproblemas menores.
 
+### Exemplos
 
+Crie uma função em linguagem C que receba 2 números e retorne o maior valor.
+
+Código C:
+
+```ruby
+
+float maior2(float num1, float num2)
+{
+    if(num1 >= num2)
+        return num1;
+    else
+        return num2;
+}
+```
+
+
+ Crie uma função em linguagem C que receba 2 números e retorne o menor valor.
+
+Código C:
+
+```ruby
+
+float menor2()2(float num1, float num2)
+{
+    if(num1 <= num2)
+        return num1;
+    else
+        return num2;
+}
+```
 
 ### Atividades com Funções:
 
@@ -260,41 +282,10 @@ moveForward(100);
 
 Utilize o link de exemplo:
 
-https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/13?lang=pt-BR
+https://studio.code.org/br/courses/express-2025/units/1/lessons/24/levels/13?lang=pt-BR
 
 
-### Exemplos
 
-Crie uma função em linguagem C que receba 2 números e retorne o maior valor.
-
-Código C:
-
-```ruby
-
-float maior2(float num1, float num2)
-{
-    if(num1 >= num2)
-        return num1;
-    else
-        return num2;
-}
-```
-
-
- Crie uma função em linguagem C que receba 2 números e retorne o menor valor.
-
-Código C:
-
-```ruby
-
-float menor2()2(float num1, float num2)
-{
-    if(num1 <= num2)
-        return num1;
-    else
-        return num2;
-}
-```
 
 # Variáveis
 
