@@ -32,18 +32,6 @@ Esses diagramas ajudam a entender e comunicar a lógica de programas, especialme
 
 ---
 
-## Variáveis
-**Variáveis** armazenam dados que podem ser manipulados ao longo do programa. Elas possuem:
-- Nome para identificação.
-- Valores que podem ser alterados, como números ou textos.
-
-Exemplo:
-- Uma variável `idade` pode armazenar o número 15 e depois ser atualizada para 16.
-- Variáveis booleanas assumem apenas os valores `verdadeiro` ou `falso`, úteis para controle lógico.
-
-Esses conceitos tornam a programação dinâmica, permitindo soluções adaptáveis e eficientes.
-
-
 
 ## Estruturas de Controle de Fluxo
 Estruturas que controlam a execução de um programa com base em condições:
@@ -288,6 +276,22 @@ https://studio.code.org/br/courses/express-2025/units/1/lessons/24/levels/13?lan
 
 
 # Variáveis
+
+
+
+
+## Variáveis
+
+**Variáveis** armazenam dados que podem ser manipulados ao longo do programa. Elas possuem:
+- Nome para identificação.
+- Valores que podem ser alterados, como números ou textos.
+
+Exemplo:
+- Uma variável `idade` pode armazenar o número 15 e depois ser atualizada para 16.
+- Variáveis booleanas assumem apenas os valores `verdadeiro` ou `falso`, úteis para controle lógico.
+
+Esses conceitos tornam a programação dinâmica, permitindo soluções adaptáveis e eficientes.
+
 
 <img width="426" height="232" alt="image" src="https://github.com/user-attachments/assets/7add2279-30e5-45ee-aa0d-22acdd7c28e6" />
 
