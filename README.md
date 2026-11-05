@@ -194,7 +194,7 @@ int soma(int a, int b) {
 
 ### Atividades com Funções:
 
-https://studio.code.org/s/express-2021/lessons/21/levels/1
+https://studio.code.org/br/courses/express-2025/units/1/lessons/24/levels/1
 
 Termine as atividades de funções!  Caso tenha terminado retorne a atividade 11
 
