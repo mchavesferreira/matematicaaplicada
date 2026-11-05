@@ -58,9 +58,6 @@ Essas estruturas tornam os programas flexíveis, permitindo decisões e loops ba
 
 # 08/10/2027
 
-
-
-
 ==================================================
 
 ## Aprenda coma Elza
@@ -83,39 +80,15 @@ https://studio.code.org/br/courses/frozen/units/1/lessons/1/levels/1
 https://studio.code.org/br/courses/express-2025/units/1/lessons/15/levels/1?lang=pt-BR
 
 
-
-
 ## Atividades com Comando IF
 
 https://studio.code.org/courses/express-2025/units/1/lessons/17/levels/1?lang=pt-BR
 
 
 
+# 04/11/2026
 
----
-
-## Desenhando o coordenadas
-
-<img width="243" height="220" alt="image" src="https://github.com/user-attachments/assets/752905ab-d152-4b81-98de-4353fdf06694" />
-
-https://studio.code.org/br/courses/express-2021/units/1/lessons/4/levels/9
-
-## Criando um jogo
-
-<img width="421" height="407" alt="image" src="https://github.com/user-attachments/assets/c33509a8-b3e7-4e96-b347-72cf87c9a61b" />
-
-https://studio.code.org/br/courses/express-2021/units/1/lessons/8/levels/1
-
-
-## Condicionais com minecraft
-
-https://studio.code.org/br/courses/express-2021/units/1/lessons/17/levels/1
-
-## Loops
-
-<img width="408" height="400" alt="image" src="https://github.com/user-attachments/assets/6c45f324-1133-494e-a566-dbcff1d65a7e" />
-
-https://studio.code.org/br/courses/express-2021/units/1/lessons/10/levels/6
+## Funções e variáveis
 
 # O que são funções?
 Funções são blocos de código reutilizáveis que executam uma tarefa específica dentro de um programa. Elas ajudam a organizar, modularizar e reduzir a repetição de código, facilitando a manutenção e leitura.
@@ -196,10 +169,6 @@ int soma(int a, int b) {
 
 https://studio.code.org/br/courses/express-2025/units/1/lessons/24/levels/1
 
-Termine as atividades de funções!  Caso tenha terminado retorne a atividade 11
-
-https://studio.code.org/courses/express-2021/units/1/lessons/21/levels/11?lang=pt-BR
-
 
 ### Converta em blocos o seguinte códigos
 Codigo 1:
@@ -253,7 +222,7 @@ parte2();
 parte3();
 ```
 
-## Trabalho 
+## Criando figuras
 
 Utilizando as funções construímos figuras geométricas como este exemplo
 
@@ -327,6 +296,21 @@ float menor2()2(float num1, float num2)
 }
 ```
 
+# Variáveis
+
+<img width="426" height="232" alt="image" src="https://github.com/user-attachments/assets/7add2279-30e5-45ee-aa0d-22acdd7c28e6" />
+
+
+```ruby
+
+var comprimento;
+
+comprimento = 50;
+for (var count = 0; count < 3; count++) {
+  moveForward(comprimento);
+  turnLeft(120);
+}
+```
 
 # Programe um robô
 
