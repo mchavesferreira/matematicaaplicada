@@ -273,7 +273,26 @@ Utilize o link de exemplo:
 https://studio.code.org/br/courses/express-2025/units/1/lessons/24/levels/13?lang=pt-BR
 
 
+## Desenha a figura seguindo esta programação
 
+```c
+function desenhaquadrados() {
+  for (var count3 = 0; count3 < 4; count3++) {
+    movefrente(50);
+    viraesquerda(90);
+  }
+}
+
+for (var count2 = 0; count2 < 4; count2++) {
+  for (var count = 0; count < 3; count++) {
+    desenhaquadrados();
+    pulafrente(50);
+  }
+  pulaparatras(50);
+  viredireita(90);
+}
+
+```
 
 # Variáveis
 
